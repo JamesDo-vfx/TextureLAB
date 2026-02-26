@@ -1,0 +1,7 @@
+{
+  "name": "Remix: NBOX TextureLab_Public App",
+  "description": "Professional PBR material and seamless texture generator for architectural and interior visualization. Transform photos into production-ready 3D textures.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
